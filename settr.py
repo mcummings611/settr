@@ -5,7 +5,7 @@ import ctypes
 SPI_SETDESKTOPWALLPAPER = 20
 SPI_GETDESKWALLPAPER = 115
 
-path = r"C:\Users\theaw\OneDrive\Pictures\wallpapers"
+path = r"YOUR \ PATH \ GOES \ HERE"
 dirList = os.listdir(path)
 
 def filterFolder():
